@@ -1,2 +1,5 @@
-fastai==2.7.17
-fastbook==0.0.29
+voila
+fastai>=2
+pillow<7
+packaging
+ipywidgets==7.5.1
