@@ -3,3 +3,4 @@ fastai>=2.0
 pillow<7.0
 packaging
 ipywidgets==7.5.1
+timm
